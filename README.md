@@ -1,0 +1,2 @@
+# Django
+Primeiro projeto django
